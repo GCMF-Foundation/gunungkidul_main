@@ -15,7 +15,7 @@ function pageLayout(props) {
   const slogan =
     "Mendidik pikiran tanpa mendidik hati adalah bukan pendidikan sama sekali.";
   const copyright =
-    "2021 Gunungkidul Handayani Blended Learning - Didukung oleh Geschool";
+    "2021 Gunungkidul Handayani Blended Learning - Didukung oleh ";
 
   return (
     <div>
